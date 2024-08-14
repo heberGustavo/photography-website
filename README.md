@@ -1,6 +1,5 @@
-Pré-visualização do website
+## Demo - Photography :camera:
 
-URL: https://hebergustavo.github.io/Website-Photography/
+URL: https://hebergustavo.github.io/photography-website/
 
-![image](https://github.com/heberGustavo/Website-Photography/assets/44476616/72edc3d3-5422-45b4-936d-386b5bc83d9c)
-
+![image](https://github.com/user-attachments/assets/13af328a-7207-44ad-9f2c-b7cc2f37edfc)
